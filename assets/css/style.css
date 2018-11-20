@@ -1,0 +1,64 @@
+
+.jumbotron {
+    text-align: center;
+    max-height: 150px;
+    background-color: rgb(30, 71, 30);
+}
+.display-3 {
+    color: white;
+}
+
+.first-table-title {
+    color: black;
+    margin-bottom: 0px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#first-table {
+    margin-top: 8px;
+}
+
+.second-table-title {
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.col-md-7 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+label {
+    margin-top: 15px;
+}
+
+#train-name-input {
+    width: 500px;
+    margin-bottom: 7px
+}
+
+#destination-input {
+    width: 500px;
+    margin-bottom: 7px
+}
+
+#first-train-time-input {
+    width: 500px;
+    margin-bottom: 7px
+}
+
+#frequency-input {
+    width: 500px;
+    margin-bottom: 7px
+}
+
+#add-all-values {
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+
