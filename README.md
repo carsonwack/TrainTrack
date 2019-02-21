@@ -16,7 +16,7 @@ Simply visit https://carsonwack.github.io/TrainTrack/
 Command-Line:
 1. git clone https://github.com/carsonwack/TrainTrack.git
 2. cd TrainTrack
-3. open index.html
+3. open index.html 
 
 
 Code Editor:
